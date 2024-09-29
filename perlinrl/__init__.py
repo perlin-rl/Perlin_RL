@@ -1,1 +1,1 @@
-from perlinrl.perlin_rl import *
+from perlinrl.perlinrl import *
