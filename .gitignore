@@ -1,0 +1,9 @@
+secret.json
+secret.json*
+.venv
+__pycache__
+*/__pycache__
+*/*/__pycache__
+*.pyc
+*.egg-info
+*.egg-info/*
